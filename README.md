@@ -9,10 +9,12 @@ Keybindings and Visual Keybinding Map
 Our first major contribution is a comprehensive list of SketchUp 8 keybindings, accompanied by a detailed visual keybinding map. These resources are designed to help both new and seasoned users quickly master the shortcuts that make SketchUp so efficient and enjoyable to use. By familiarizing yourself with these keybindings, you can significantly speed up your modeling process and make your SketchUp experience smoother and more productive.
 
    - Keybindings: A curated list of essential shortcuts that will help you navigate and use SketchUp 8 with greater efficiency.
-    
+
+([https://github.com/unofficial-legacy-sketchup/unofficial-legacy-sketchup/blob/main/keybindings/set-revised-sketchup8-keybinds.bat](https://github.com/unofficial-legacy-sketchup/unofficial-legacy-sketchup/blob/main/keybindings/set-revised-sketchup8-keybinds.bat))
+
    - Visual Keybinding Map: An intuitive graphic representation of shortcuts, laid out on a virtual keyboard. It's a quick reference guide to help you remember and utilize keybindings effortlessly.
 
-[img](https://github.com/unofficial-legacy-sketchup/unofficial-legacy-sketchup/blob/main/visual-keymap/sketchup-full-layout/sketchup-full-layout-dark.png)
+([https://github.com/unofficial-legacy-sketchup/unofficial-legacy-sketchup/blob/main/visual-keymap/sketchup-full-layout/sketchup-full-layout-dark.png](https://github.com/unofficial-legacy-sketchup/unofficial-legacy-sketchup/blob/main/visual-keymap/sketchup-full-layout/sketchup-full-layout-dark.png?raw=true))
 
 # Contributing
 
