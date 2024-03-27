@@ -8,17 +8,15 @@ Keybindings and Visual Keybinding Map
 
 Our first major contribution is a comprehensive list of SketchUp 8 keybindings, accompanied by a detailed visual keybinding map. These resources are designed to help both new and seasoned users quickly master the shortcuts that make SketchUp so efficient and enjoyable to use. By familiarizing yourself with these keybindings, you can significantly speed up your modeling process and make your SketchUp experience smoother and more productive.
 
-    Keybindings: A curated list of essential shortcuts that will help you navigate and use SketchUp 8 with greater efficiency.
-    Visual Keybinding Map: An intuitive graphic representation of shortcuts, laid out on a virtual keyboard. It's a quick reference guide to help you remember and utilize keybindings effortlessly.
+   - Keybindings: A curated list of essential shortcuts that will help you navigate and use SketchUp 8 with greater efficiency.
+    
+   - Visual Keybinding Map: An intuitive graphic representation of shortcuts, laid out on a virtual keyboard. It's a quick reference guide to help you remember and utilize keybindings effortlessly.
 
-Contributing
+[img](https://github.com/unofficial-legacy-sketchup/unofficial-legacy-sketchup/blob/main/visual-keymap/sketchup-full-layout/sketchup-full-layout-dark.png)
 
-The unofficial-legacy-sketchup repository thrives on community contributions! Whether you've developed a plugin, discovered a workaround for a common issue, or created a tutorial tailored to SketchUp 8, we encourage you to share it. Here's how you can contribute:
+# Contributing
 
-    Fork the Repository: Start by forking the repository to your own GitHub account.
-    Create a New Branch: Make a new branch for your contribution to keep things organized.
-    Commit Your Changes: Add your files, making sure to follow the naming conventions and directory structure outlined in our contribution guidelines.
-    Submit a Pull Request: Once you're ready, submit a pull request to the main repository. Include a clear description of your contribution and any necessary screenshots or documentation.
+Contributions welcomed
 
 For more detailed instructions and guidelines on contributing, please refer to the CONTRIBUTING.md file.
 Support and Community
