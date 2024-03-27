@@ -10,6 +10,30 @@ Our first major contribution is a comprehensive list of SketchUp 8 keybindings, 
 
    - Keybindings: A curated list of essential shortcuts that will help you navigate and use SketchUp 8 with greater efficiency.
 
+Provides an easy way to setup your keybinds from a batch file
+
+Example:
+
+`
+call :SetSketchupKeybinds W "Tools/Move"
+call :SetSketchupKeybinds X "Tools/Offset" 
+call :SetSketchupKeybinds B "Tools/Paint Bucket"
+call :SetSketchupKeybinds E "Tools/Push/Pull"
+call :SetSketchupKeybinds R "Tools/Rotate"
+call :SetSketchupKeybinds S "Tools/Scale"
+call :SetSketchupKeybinds Space "Tools/Select"
+call :SetSketchupKeybinds Z "Tools/Section Plane"
+call :SetSketchupKeybinds T "Tools/Tape Measure"
+call :SetSketchupKeybinds F "Tools/Follow Me"
+call :SetSketchupKeybinds \ "Tools/Eraser"
+call :SetSketchupKeybinds SHIFT A "Tools/Axes"
+call :SetSketchupKeybinds ALT A Tools/Protractor
+call :SetSketchupKeybinds ALT X "Tools/Outer Shell"
+call :SetSketchupKeybinds ALT Q "Tools/Utilities/Query Tool"
+call :SetSketchupKeybinds CTRL F "Tools/Utilities/Create Face"
+call :SetSketchupKeybinds ENTER Tools/Interact
+`
+
 [https://github.com/unofficial-legacy-sketchup/unofficial-legacy-sketchup/blob/main/keybindings/set-revised-sketchup8-keybinds.bat](https://github.com/unofficial-legacy-sketchup/unofficial-legacy-sketchup/blob/main/keybindings/set-revised-sketchup8-keybinds.bat)
 
    - Visual Keybinding Map: An intuitive graphic representation of shortcuts, laid out on a virtual keyboard. It's a quick reference guide to help you remember and utilize keybindings effortlessly.
