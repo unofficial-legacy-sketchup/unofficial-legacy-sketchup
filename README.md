@@ -18,7 +18,8 @@ Our first major contribution is a comprehensive list of SketchUp 8 keybindings, 
 
    - New default template, at least one demonstrating sketchup's features and one with many useful things
 
-
+![img](https://github.com/unofficial-legacy-sketchup/unofficial-legacy-sketchup/blob/main/templates/tutorial%20template%20shot%202.png)
+![img](https://github.com/unofficial-legacy-sketchup/unofficial-legacy-sketchup/blob/main/templates/tutorial%20template%20shot%201.png)
 
 # Contributing
 
