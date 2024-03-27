@@ -1,0 +1,196 @@
+[
+  [
+    {
+      "c": "#005b75"
+    },
+    "~\n`\n\n\n\n\nConsole",
+    {
+      "c": "#cccccc"
+    },
+    "!\n1",
+    "@\n2",
+    "#\n3",
+    "$\n4",
+    "%\n5",
+    "^\n6",
+    "&\n7",
+    "*\n8",
+    "(\n9",
+    ")\n0",
+    "_\n-",
+    "+\n=",
+    {
+      "w": 2
+    },
+    "Backspace"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "Tab",
+    {
+      "c": "#00c5ff",
+      "f": 2
+    },
+    "Q\nRectangle\n\n\n\n\nDraw",
+    {
+      "f": 3
+    },
+    "W\n\n\n\n\n\nMove",
+    "E\nPull\n\n\n\n\nPush",
+    "R\n\n\n\n\n\nRotate",
+    "T\nMeasure\n\n\n\n\nTape",
+    {
+      "c": "#cccccc"
+    },
+    "Y",
+    "U",
+    {
+      "c": "#005b75"
+    },
+    "I\nIgloo\n\n\n\n\nImage",
+    {
+      "c": "#cccccc"
+    },
+    "O",
+    "P",
+    "{\n[",
+    "}\n]",
+    {
+      "c": "#005b75",
+      "w": 1.5
+    },
+    "|\n\\\n\n\n\n\nErase tool"
+  ],
+  [
+    {
+      "c": "#cccccc",
+      "w": 1.75
+    },
+    "Caps Lock",
+    {
+      "c": "#005b75"
+    },
+    "A\nArc\n\n\n\n\nDraw",
+    {
+      "c": "#00c5ff"
+    },
+    "S\n\n\n\n\n\nScale",
+    "D\n\n\n\n\n\nLine",
+    {
+      "c": "#005b75"
+    },
+    "F\nMe\n\n\n\n\nFollow",
+    {
+      "c": "#00c5ff"
+    },
+    "G\nGroup\n\n\n\n\nMake",
+    "H\n\n\n\n\n\nHide",
+    {
+      "c": "#cccccc"
+    },
+    "J",
+    "K",
+    {
+      "c": "#00c5ff"
+    },
+    "L\n\n\n\n\n\nLock",
+    {
+      "c": "#cccccc"
+    },
+    ":\n;",
+    "\"\n'",
+    {
+      "c": "#005b75",
+      "w": 2.25
+    },
+    "Enter\n\n\n\n\n\nInteract"
+  ],
+  [
+    {
+      "c": "#e02a2a",
+      "w": 2.25
+    },
+    "Shift\nLock Axis",
+    {
+      "c": "#00c5ff"
+    },
+    "Z\nPlane\n\n\n\n\nSection",
+    {
+      "c": "#005b75"
+    },
+    "X\n\n\n\n\n\nOffset",
+    {
+      "c": "#00c5ff"
+    },
+    "C\nCircle\n\n\n\n\nDraw",
+    {
+      "c": "#005b75"
+    },
+    "V\nInfo\n\n\n\n\nEntify",
+    {
+      "c": "#00c5ff"
+    },
+    "B\nBucket\n\n\n\n\nPaint",
+    {
+      "c": "#cccccc"
+    },
+    "N",
+    {
+      "c": "#005b75"
+    },
+    "M\nMatch\n\n\n\n\nPhoto",
+    {
+      "c": "#cccccc"
+    },
+    "<\n,",
+    ">\n.",
+    "?\n/",
+    {
+      "w": 2.75
+    },
+    "Shift"
+  ],
+  [
+    {
+      "c": "#eeff00",
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "c": "#cccccc",
+      "w": 1.25
+    },
+    "Win",
+    {
+      "c": "#06ff00",
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "c": "#00c5ff",
+      "a": 7,
+      "w": 6.25
+    },
+    "Select",
+    {
+      "c": "#cccccc",
+      "a": 4,
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "w": 1.25
+    },
+    "Win",
+    {
+      "w": 1.25
+    },
+    "Menu",
+    {
+      "w": 1.25
+    },
+    "Ctrl"
+  ]
+]
