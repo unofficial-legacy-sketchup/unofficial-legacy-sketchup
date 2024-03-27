@@ -3,6 +3,21 @@ Welcome to Unofficial Legacy SketchUp
 Welcome to the unofficial-legacy-sketchup GitHub repository! This is a community-driven space dedicated to preserving and enhancing the experience of using SketchUp 8, one of the most cherished versions of the iconic 3D modeling software. Despite its age, SketchUp 8 continues to be a favorite among hobbyists, educators, and professionals who appreciate its simplicity, lightweight operation, and robust features.
 What You'll Find Here
 
+This repository is assuming you are using the lastest, free for any usage including commercial, Google Sketchup 8
+
+The original file name is `FW-3-0-16846-EN.exe`
+
+The hash checks are as follows
+
+    Name: FW-3-0-16846-EN.exe
+    Size: 35800192 bytes (34 MiB)
+    CRC32: E7F90FB8
+    CRC64: DEBD3DA5AAE47A64
+    SHA256: 45fd99a311367c29ea3860d09a259a24a366a5ab602481776260080193a22d4c
+    SHA1: 6c9a61fe12b21fe9a1d6b5ee1bb79f331a5fc36c
+    BLAKE2sp: c30c5ad4363ada21f8e66c133d90ac0522e9587b6c4067bddf4587ad8cae03c7
+
+
 This repository is your go-to source for resources, tweaks, plugins, and guides specifically tailored for SketchUp 8. Our goal is to ensure that enthusiasts and professionals alike can continue to leverage this version's potential, optimizing their workflow and bringing their visions to life with greater ease.
 Keybindings and Visual Keybinding Map
 
