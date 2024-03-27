@@ -16,6 +16,10 @@ Our first major contribution is a comprehensive list of SketchUp 8 keybindings, 
 
 ![img](https://github.com/unofficial-legacy-sketchup/unofficial-legacy-sketchup/blob/main/visual-keymap/sketchup-full-layout/sketchup-full-layout-dark.png?raw=true)
 
+   - New default template, at least one demonstrating sketchup's features and one with many useful things
+
+
+
 # Contributing
 
 Contributions welcomed
